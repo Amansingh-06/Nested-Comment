@@ -2,7 +2,7 @@
   "name": "nested-comment",
   "private": true,
   "version": "0.0.0",
-  "homepage":" https://github.com/Amansingh-06/Nested-Comment.git",
+  "homepage": " https://github.com/Amansingh-06/Nested-Comment",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
